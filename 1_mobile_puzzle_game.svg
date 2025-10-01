@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="true"
-     inkscape:zoom="5.1508817"
-     inkscape:cx="1.7472737"
-     inkscape:cy="19.12294"
+     inkscape:zoom="4.258977"
+     inkscape:cx="9.6267249"
+     inkscape:cy="42.381069"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1672"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <sodipodi:guide
        position="0,42.952992"
        orientation="0,1"
@@ -62,6 +62,36 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="48"
+       height="48"
+       id="page5"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="52.806492"
+       y="0"
+       width="48"
+       height="48"
+       id="page6"
+       margin="0 0 0 0"
+       bleed="0" />
+    <sodipodi:guide
+       position="4852.8065,48"
+       orientation="-1,0"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="100.80649,46.252726"
+       orientation="-1,0"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -71,7 +101,7 @@
        id="filter255"
        x="0"
        y="0"
-       width="1.0469969"
+       width="1.046997"
        height="1.046997">
       <feFlood
          result="flood"
@@ -104,11 +134,11 @@
          id="feComposite255" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter294"
-       x="-0.091078975"
-       y="-0.091078975"
+       x="-0.091078974"
+       y="-0.091078974"
        width="1.3719058"
        height="1.3719058">
       <feFlood
@@ -141,11 +171,64 @@
          in2="SourceGraphic"
          id="feComposite294" />
     </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.4373121,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.3543134,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.4013214,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Square"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.77953;stroke-linejoin:bevel;paint-order:stroke fill markers"
        id="rect2"
@@ -157,7 +240,7 @@
        ry="5.0557618"
        inkscape:label="Background" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:1.197;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers;fill-opacity:1;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:1.197;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect3"
        width="10.540303"
        height="10.540303"
@@ -169,7 +252,7 @@
        xlink:href="#rect3"
        id="use4"
        transform="translate(26.262338)"
-       style="fill:#ffffff;fill-opacity:0.93902439" />
+       style="fill:#ffffff;fill-opacity:0.939024" />
     <use
        x="0"
        y="0"
@@ -177,7 +260,7 @@
        id="use5"
        transform="translate(0.03599094,26.179339)" />
     <rect
-       style="fill:#cfcfcf;fill-rule:evenodd;stroke:#494949;stroke-width:1.19736;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       style="fill:#cfcfcf;fill-rule:evenodd;stroke:#494949;stroke-width:1.19736;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="use7"
        width="10.540303"
        height="10.540303"
@@ -200,6 +283,80 @@
        y="0"
        xlink:href="#use9"
        id="use10"
+       transform="translate(-13.131168,13.107665)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Rounded"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.77953;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       id="rect2-6"
+       width="48"
+       height="48"
+       x="52.806492"
+       y="0"
+       rx="8"
+       ry="8"
+       inkscape:label="Background" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:1.197;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3-1"
+       width="10.540303"
+       height="10.540303"
+       x="5.5986786"
+       y="5.6456866"
+       sodipodi:type="rect"
+       inkscape:path-effect="#path-effect4"
+       d="m 8,5.6456866 h 8.138982 V 16.18599 H 5.5986786 V 8.047008 A 2.4013214,2.4013214 135 0 1 8,5.6456866 Z"
+       transform="translate(52.806495)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:1.197;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="use4-4"
+       width="10.540303"
+       height="10.540303"
+       x="31.861017"
+       y="5.6456866"
+       sodipodi:type="rect"
+       inkscape:path-effect="#path-effect5"
+       d="m 31.861017,5.6456866 h 8.18599 A 2.3543134,2.3543134 45 0 1 42.40132,8 v 8.18599 H 31.861017 Z"
+       transform="translate(52.806495)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:1.197;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="use5-2"
+       width="10.540303"
+       height="10.540303"
+       x="31.897009"
+       y="31.825026"
+       sodipodi:type="rect"
+       inkscape:path-effect="#path-effect6"
+       d="m 31.897009,31.825026 h 10.540303 v 8.102991 A 2.4373121,2.4373121 135 0 1 40,42.365329 h -8.102991 z"
+       transform="translate(52.806495)" />
+    <rect
+       style="fill:#cfcfcf;fill-rule:evenodd;stroke:#494949;stroke-width:1.19736;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="use7-3"
+       width="10.540303"
+       height="10.540303"
+       x="58.40517"
+       y="18.8585" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use7-3"
+       id="use8-2"
+       transform="translate(13.13117,-13.212812)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use8-2"
+       id="use9-2"
+       transform="translate(13.131169,13.107665)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use9-2"
+       id="use10-1"
        transform="translate(-13.131168,13.107665)" />
   </g>
 </svg>
