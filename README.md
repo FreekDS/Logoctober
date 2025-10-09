@@ -48,7 +48,7 @@ Elke dag een nieuw logo
 				<img src="./8_valley.svg" width="128" alt="Logo 8" />
 			</td><td>
 				9<br>
-				<!-- Add image: <img src="./9_xxx.svg" width="128" alt="Logo 9" /> -->
+				<img src="./9_scope.svg" width="128" alt="Logo 9" />
 			</td><td>
 				10<br>
 				<!-- Add image: <img src="./10_xxx.svg" width="128" alt="Logo 10" /> -->
