@@ -51,7 +51,7 @@ Elke dag een nieuw logo
 				<img src="./9_scope.svg" width="128" alt="Logo 9" />
 			</td><td>
 				10<br>
-				<!-- Add image: <img src="./10_xxx.svg" width="128" alt="Logo 10" /> -->
+				<img src="./10_shorted_circuit_story.svg" width="128" alt="Logo 10" />
 			</td><td>
 				11<br>
 				<!-- Add image: <img src="./11_xxx.svg" width="128" alt="Logo 11" /> -->
