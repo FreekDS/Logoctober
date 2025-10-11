@@ -54,7 +54,7 @@ Elke dag een nieuw logo
 				<img src="./10_shorted_circuit_story.svg" width="128" alt="Logo 10" />
 			</td><td>
 				11<br>
-				<!-- Add image: <img src="./11_xxx.svg" width="128" alt="Logo 11" /> -->
+				<img src="./11_loop_to_the_moon.svg" width="128" alt="Logo 11" />
 			</td><td>
 				12<br>
 				<!-- Add image: <img src="./12_xxx.svg" width="128" alt="Logo 12" /> -->
