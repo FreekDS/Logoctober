@@ -57,7 +57,7 @@ Elke dag een nieuw logo
 				<img src="./11_loop_to_the_moon.svg" width="128" alt="Logo 11" />
 			</td><td>
 				12<br>
-				<!-- Add image: <img src="./12_xxx.svg" width="128" alt="Logo 12" /> -->
+				<img src="./12_ufo.svg" width="128" alt="Logo 12" />
 			</td>
 		</tr>
 		<!-- Week 3: Oct 13 - Oct 19 -->
