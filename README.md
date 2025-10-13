@@ -64,7 +64,7 @@ Elke dag een nieuw logo
 		<tr>
 			<td>
 				13<br>
-				<!-- Add image: <img src="./13_xxx.svg" width="128" alt="Logo 13" /> -->
+				<img src="./13_state_of_order.svg" width="128" alt="Logo 13" />
 			</td><td>
 				14<br>
 				<!-- Add image: <img src="./14_xxx.svg" width="128" alt="Logo 14" /> -->
