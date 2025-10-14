@@ -67,7 +67,7 @@ Elke dag een nieuw logo
 				<img src="./13_state_of_order.svg" width="128" alt="Logo 13" />
 			</td><td>
 				14<br>
-				<!-- Add image: <img src="./14_xxx.svg" width="128" alt="Logo 14" /> -->
+				<img src="./14_sheep.svg" width="128" alt="Logo 14" />
 			</td><td>
 				15<br>
 				<!-- Add image: <img src="./15_xxx.svg" width="128" alt="Logo 15" /> -->
