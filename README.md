@@ -70,7 +70,7 @@ Elke dag een nieuw logo
 				<img src="./14_sheep.svg" width="128" alt="Logo 14" />
 			</td><td>
 				15<br>
-				<!-- Add image: <img src="./15_xxx.svg" width="128" alt="Logo 15" /> -->
+				<img src="./15_house.svg" width="128" alt="Logo 15" />
 			</td><td>
 				16<br>
 				<!-- Add image: <img src="./16_xxx.svg" width="128" alt="Logo 16" /> -->
