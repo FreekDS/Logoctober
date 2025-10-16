@@ -73,7 +73,7 @@ Elke dag een nieuw logo
 				<img src="./15_house.svg" width="128" alt="Logo 15" />
 			</td><td>
 				16<br>
-				<!-- Add image: <img src="./16_xxx.svg" width="128" alt="Logo 16" /> -->
+				<img src="./16_rocket.svg" width="128" alt="Logo 16" />
 			</td><td>
 				17<br>
 				<!-- Add image: <img src="./17_xxx.svg" width="128" alt="Logo 17" /> -->
