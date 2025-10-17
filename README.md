@@ -76,7 +76,7 @@ Elke dag een nieuw logo
 				<img src="./16_rocket.svg" width="128" alt="Logo 16" />
 			</td><td>
 				17<br>
-				<!-- Add image: <img src="./17_xxx.svg" width="128" alt="Logo 17" /> -->
+				<img src="./17_solar_panel.svg" width="128" alt="Logo 17" />
 			</td><td>
 				18<br>
 				<!-- Add image: <img src="./18_xxx.svg" width="128" alt="Logo 18" /> -->
