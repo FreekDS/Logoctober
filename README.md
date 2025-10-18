@@ -79,7 +79,7 @@ Elke dag een nieuw logo
 				<img src="./17_solar_panel.svg" width="128" alt="Logo 17" />
 			</td><td>
 				18<br>
-				<!-- Add image: <img src="./18_xxx.svg" width="128" alt="Logo 18" /> -->
+				<img src="18_flower.svg" width="128" alt="Logo 18" />
 			</td><td>
 				19<br>
 				<!-- Add image: <img src="./19_xxx.svg" width="128" alt="Logo 19" /> -->
