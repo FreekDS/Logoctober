@@ -82,7 +82,7 @@ Elke dag een nieuw logo
 				<img src="18_flower.svg" width="128" alt="Logo 18" />
 			</td><td>
 				19<br>
-				<!-- Add image: <img src="./19_xxx.svg" width="128" alt="Logo 19" /> -->
+				<img src="./19_factorioh.svg" width="128" alt="Logo 19" />
 			</td>
 		</tr>
 		<!-- Week 4: Oct 20 - Oct 26 -->
