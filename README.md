@@ -89,7 +89,7 @@ Elke dag een nieuw logo
 		<tr>
 			<td>
 				20<br>
-				<!-- Add image: <img src="./20_xxx.svg" width="128" alt="Logo 20" /> -->
+				<img src="./20_conveyor.svg" width="128" alt="Logo 20" />
 			</td><td>
 				21<br>
 				<!-- Add image: <img src="./21_xxx.svg" width="128" alt="Logo 21" /> -->
