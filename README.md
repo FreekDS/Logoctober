@@ -92,7 +92,7 @@ Elke dag een nieuw logo
 				<img src="./20_conveyor.svg" width="128" alt="Logo 20" />
 			</td><td>
 				21<br>
-				<!-- Add image: <img src="./21_xxx.svg" width="128" alt="Logo 21" /> -->
+				<img src="./21_vent.svg" width="128" alt="Logo 21" />
 			</td><td>
 				22<br>
 				<!-- Add image: <img src="./22_xxx.svg" width="128" alt="Logo 22" /> -->
