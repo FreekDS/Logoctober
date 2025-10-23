@@ -98,7 +98,7 @@ Elke dag een nieuw logo
 				<img src="./22_car.svg" width="128" alt="Logo 22" />
 			</td><td>
 				23<br>
-				<!-- Add image: <img src="./23_xxx.svg" width="128" alt="Logo 23" /> -->
+				<img src="./23_candycandy.svg" width="128" alt="Logo 23" />
 			</td><td>
 				24<br>
 				<!-- Add image: <img src="./24_xxx.svg" width="128" alt="Logo 24" /> -->
