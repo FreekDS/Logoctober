@@ -95,7 +95,7 @@ Elke dag een nieuw logo
 				<img src="./21_vent.svg" width="128" alt="Logo 21" />
 			</td><td>
 				22<br>
-				<!-- Add image: <img src="./22_xxx.svg" width="128" alt="Logo 22" /> -->
+				<img src="./22_car.svg" width="128" alt="Logo 22" />
 			</td><td>
 				23<br>
 				<!-- Add image: <img src="./23_xxx.svg" width="128" alt="Logo 23" /> -->
