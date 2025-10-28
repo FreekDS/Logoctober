@@ -101,7 +101,7 @@ Elke dag een nieuw logo
 				<img src="./23_candycandy.svg" width="128" alt="Logo 23" />
 			</td><td>
 				24<br>
-				<!-- Add image: <img src="./24_xxx.svg" width="128" alt="Logo 24" /> -->
+				<img src="./24_vlees.svg" width="128" alt="Logo 24" />
 			</td><td>
 				25<br>
 				<!-- Add image: <img src="./25_xxx.svg" width="128" alt="Logo 25" /> -->
