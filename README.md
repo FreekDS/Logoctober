@@ -104,7 +104,7 @@ Elke dag een nieuw logo
 				<img src="./24_vlees.svg" width="128" alt="Logo 24" />
 			</td><td>
 				25<br>
-				<!-- Add image: <img src="./25_xxx.svg" width="128" alt="Logo 25" /> -->
+				<img src="./25_chimken.svg" width="128" alt="Logo 25" />
 			</td><td>
 				26<br>
 				<!-- Add image: <img src="./26_xxx.svg" width="128" alt="Logo 26" /> -->
