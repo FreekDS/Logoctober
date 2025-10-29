@@ -107,7 +107,7 @@ Elke dag een nieuw logo
 				<img src="./25_chimken.svg" width="128" alt="Logo 25" />
 			</td><td>
 				26<br>
-				<!-- Add image: <img src="./26_xxx.svg" width="128" alt="Logo 26" /> -->
+				<img src="./26_pompoentje.svg" width="128" alt="Logo 26" />
 			</td>
 		</tr>
 		<!-- Week 5: Oct 27 - Oct 31 -->
