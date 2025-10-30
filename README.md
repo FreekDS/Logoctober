@@ -117,7 +117,7 @@ Elke dag een nieuw logo
 				<img src="./27_mobile_puzzle_finale.svg" width="128" alt="Logo 27" />
 			</td><td>
 				28<br>
-				<!-- Add image: <img src="./28_xxx.svg" width="128" alt="Logo 28" /> -->
+				<img src="./28_soup.svg" width="128" alt="Logo 28" />
 			</td><td>
 				29<br>
 				<!-- Add image: <img src="./29_xxx.svg" width="128" alt="Logo 29" /> -->
