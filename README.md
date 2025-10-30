@@ -120,7 +120,7 @@ Elke dag een nieuw logo
 				<img src="./28_soup.svg" width="128" alt="Logo 28" />
 			</td><td>
 				29<br>
-				<!-- Add image: <img src="./29_xxx.svg" width="128" alt="Logo 29" /> -->
+				<img src="./29_themedlar.svg" width="128" alt="Logo 29" />
 			</td><td>
 				30<br>
 				<!-- Add image: <img src="./30_xxx.svg" width="128" alt="Logo 30" /> -->
