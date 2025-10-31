@@ -123,7 +123,7 @@ Elke dag een nieuw logo
 				<img src="./29_themedlar.svg" width="128" alt="Logo 29" />
 			</td><td>
 				30<br>
-				<!-- Add image: <img src="./30_xxx.svg" width="128" alt="Logo 30" /> -->
+				<img src="./30_ballonvaart.svg" width="128" alt="Logo 30" />
 			</td><td>
 				31<br>
 				<!-- Add image: <img src="./31_xxx.svg" width="128" alt="Logo 31" /> -->
