@@ -126,7 +126,7 @@ Elke dag een nieuw logo
 				<img src="./30_ballonvaart.svg" width="128" alt="Logo 30" />
 			</td><td>
 				31<br>
-				<!-- Add image: <img src="./31_xxx.svg" width="128" alt="Logo 31" /> -->
+				<img src="./31_cake.svg" width="128" alt="Logo 31" />
 			</td><td></td><td></td>
 		</tr>
 	</tbody>
